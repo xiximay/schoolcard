@@ -1,0 +1,8 @@
+<!--client/pages/head/head.wxml-->
+<view class="one">你还在为亲自敲入一条条学生信息而烦恼吗</view>
+<view class="two">你还在为统计学生信息耗时长而难过吗</view>
+<view class="three">你还在为收集学生信息繁琐而头秃吗</view>
+<view class="A">快来点击下方按钮</view>
+<view class="B">从此让你不再烦恼！不再难过！不再头秃！</view>
+<button type='primary'bindtap='haha'class="xixi">点击此处扫描录入</button>
+
